@@ -1,0 +1,42 @@
+body {text-align:left;
+margin-right:220px;
+margin-left:220px;
+font-family:Georgia;
+}
+
+.content{
+font-size:13pt;
+line-height: 1.4;
+border-top-width: medium;
+border-top-style: solid;
+}
+.selfintro{
+font-size:13pt;
+line-height: 1.4;
+
+}
+
+/*TITLE*/
+.heading{ 
+font-size:14pt;
+font-weight:bold;
+
+
+}
+
+img{
+float:right
+}
+
+
+
+.right-aligned{
+float:right
+
+}
+
+.ant{
+font-style: italic;
+float:left;
+
+}
